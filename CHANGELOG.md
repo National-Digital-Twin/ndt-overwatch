@@ -17,19 +17,15 @@ This project follows **Semantic Versioning (SemVer)** ([semver.org](https://semv
 
 ---
 
-## [Unreleased]
+## [0.90.0]
 
 ### Added
 
-- Placeholder for upcoming features and enhancements.
+- Add automated supplier register generation workflow and scripts.
 
 ### Fixed
 
-- Placeholder for bug fixes and security updates.
-
-### Changed
-
-- Placeholder for changes to existing functionality.
+- OSPO compliance work, required to go public.
 
 ---
 
