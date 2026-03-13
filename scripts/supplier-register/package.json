@@ -1,0 +1,17 @@
+{
+  "name": "supplier-register",
+  "version": "0.90.0",
+  "description": "A github-script to generate the supplier register for the National Digital Twin Programme",
+  "main": "generate-register.js",
+  "scripts": {
+    "test": "node --test --experimental-test-coverage"
+  },
+  "keywords": [],
+  "author": "National Digital Twin Programme",
+  "license": "Apache-2.0",
+  "type": "commonjs",
+  "dependencies": {
+    "@octokit/plugin-throttling": "^11.0.3",
+    "marked": "^17.0.4"
+  }
+}

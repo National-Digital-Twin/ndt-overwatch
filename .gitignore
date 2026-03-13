@@ -12,3 +12,26 @@
 .idea/
 *.tmproj
 .vscode/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# dotenv environment variable files
+.env
+.env.*
+!.env.example
+
+# act - used for testing workflows
+.artifacts/
+
+# results
+test-results/
+
+# coverage
+coverage/
+lcov.info
