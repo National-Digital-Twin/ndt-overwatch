@@ -10,7 +10,7 @@
   - bug fix
 -->
 
-### Description 
+### Description
 
 <!-- Describe the scope of your change - i.e. 
   - what the change does how it was tested 
@@ -22,6 +22,6 @@
 
 <!-- [Place an '[X]' (no spaces) in all applicable fields. Please add/remove fields as required.] -->
 
-- [ ] Test code against a test environment and not just on a local cluster 
+- [ ] Test code against a test environment and not just on a local cluster
 - [ ] Reference relevant issue(s) where applicable and close them after merging
 - [ ] Update any documentation and relevant `CHANGELOG.md` files
