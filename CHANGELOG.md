@@ -17,6 +17,18 @@ This project follows **Semantic Versioning (SemVer)** ([semver.org](https://semv
 
 ---
 
+## [0.90.1]
+
+### Fixed
+
+- fix spdx header format in register template.
+
+### Updated
+
+- Bump github/codeql-action from 4.32.6 to 4.33.0
+- Bump actions/create-github-app-token from 2.2.1 to 3.0.0
+- Bump actions/download-artifact from 8.0.0 to 8.0.1
+
 ## [0.90.0]
 
 ### Added
