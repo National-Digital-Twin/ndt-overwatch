@@ -1,7 +1,7 @@
 # NDTP Suppliers Register
 
-**Repository:** `.github`
-**Description:** `Provides a consolidated, de-duplicated list of organisations acknowledged across public repositories within the National Digital Twin Programme GitHub organisation.`
+**Repository:** `.github`  
+**Description:** `Provides a consolidated, de-duplicated list of organisations acknowledged across public repositories within the National Digital Twin Programme GitHub organisation.`  
 **SPDX-License-Identifier:** `OGL-UK-3.0`
 
 The National Digital Twin Programme (NDTP) maintains this document as a consolidated register of organisations that have been acknowledged for contributing to publicly available repositories within the NDTP GitHub organisation.
