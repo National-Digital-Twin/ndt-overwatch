@@ -1,7 +1,7 @@
 # NOTICE  
 
-**Repository:** `ndt-overwatch`
-**Description:** `Attribution and legal notices related to the use of this repository, including acknowledgments of external contributions.`
+**Repository:** `ndt-overwatch`  
+**Description:** `Attribution and legal notices related to the use of this repository, including acknowledgments of external contributions.`  
 **SPDX-License-Identifier:** `OGL-UK-3.0`  
 
 This repository contains software developed as part of the National Digital Twin Programme (NDTP), a UK Government initiative.
