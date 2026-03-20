@@ -1,7 +1,7 @@
 # Maintainers
 
-**Repository:** `ndt-overwatch`
-**Description:** `Lists maintainers responsible for reviewing issues, security, and documentation updates.`
+**Repository:** `ndt-overwatch`  
+**Description:** `Lists maintainers responsible for reviewing issues, security, and documentation updates.`  
 **SPDX-License-Identifier:** `OGL-UK-3.0`
 
 ## Introduction

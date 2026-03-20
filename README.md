@@ -14,6 +14,10 @@ The contents maintained in this repository are designed for use with GitHub.
 
 ## Features
 
+### Supplier Register Generation
+
+An automated process to generate a consolidated, de-duplicated register of supplier organisations acknowledged across our public repositories. This register is derived from the `ACKNOWLEDGEMENTS.md` files in each repository and provides a single reference point for reporting and governance purposes.
+
 ## Public Funding Acknowledgment
 
 This repository has been developed with public funding as part of the National Digital Twin Programme (NDTP), a UK Government initiative. NDTP, alongside its partners, has invested in this work to advance open, secure, and reusable digital twin technologies for any organisation, whether from the public or private sector, irrespective of size.  
