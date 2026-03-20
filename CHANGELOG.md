@@ -17,6 +17,12 @@ This project follows **Semantic Versioning (SemVer)** ([semver.org](https://semv
 
 ---
 
+## [0.90.2]
+
+### Fixed
+
+- fix spdx header format in various files.
+
 ## [0.90.1]
 
 ### Fixed
