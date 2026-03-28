@@ -12,6 +12,6 @@
   "type": "commonjs",
   "dependencies": {
     "@octokit/plugin-throttling": "^11.0.3",
-    "marked": "^17.0.4"
+    "marked": "^17.0.5"
   }
 }
