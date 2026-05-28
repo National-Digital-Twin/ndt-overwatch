@@ -17,6 +17,12 @@ This project follows **Semantic Versioning (SemVer)** ([semver.org](https://semv
 
 ---
 
+## [0.90.3]
+
+### Updated
+
+- patch GitHub Actions and javascript resources
+
 ## [0.90.2]
 
 ### Fixed
