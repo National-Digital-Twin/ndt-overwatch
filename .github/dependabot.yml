@@ -5,6 +5,10 @@ updates:
     target-branch: "develop"
     schedule:
       interval: "weekly"
+    groups:
+      github-actions:
+        patterns:
+          - "*"
 
   - package-ecosystem: "npm"
     directories: 
