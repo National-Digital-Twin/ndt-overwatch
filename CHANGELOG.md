@@ -17,6 +17,12 @@ This project follows **Semantic Versioning (SemVer)** ([semver.org](https://semv
 
 ---
 
+## [0.90.5]
+
+### Changed
+
+- Updated GitHub Actions to latest versions.
+
 ## [0.90.4]
 
 ### Updated
