@@ -11,7 +11,7 @@
   "license": "Apache-2.0",
   "type": "commonjs",
   "dependencies": {
-    "@octokit/plugin-throttling": "^11.0.3",
+    "@octokit/plugin-throttling": "^11.0.5",
     "marked": "^18.0.5"
   }
 }
