@@ -16,3 +16,7 @@ updates:
     target-branch: "develop"
     schedule:
       interval: "weekly"
+    groups:
+      npm-dependencies:
+        patterns:
+          - "*"
